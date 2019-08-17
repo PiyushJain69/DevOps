@@ -1,1 +1,2 @@
 this is teh 2nd file
+test for the conflict
